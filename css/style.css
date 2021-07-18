@@ -23,12 +23,12 @@ html {
 html[data-theme=dark] {
   --bg-light: hsl(0, 0%, 40%);
   --bg: hsl(0, 0%, 17%);
-  --bg-testimonials: hsl(360, 100%, 28%);
+  --bg-testimonials: hsl(349, 100%, 40%);
   --text-color-light: hsl(0, 0%, 100%);
   --text-color-normal: hsl(0, 0%, 95%);
   --heading-color: hsl(360, 100%, 49%);
   --heading-color-dark: hsl(360, 99%, 38%);
-  --button-color: hsl(360, 100%, 49%);
+  --button-color: hsl(360, 80%, 49%);
   --button-color-dark: hsl(360, 99%, 38%);
   --bg-contact: hsl(0, 0%, 27%);
   --contact-color: hsl(0, 0%, 100%);
@@ -610,6 +610,46 @@ nav li a:hover {
   }
   .testimonials-section ul li {
     margin: 0 1em;
+  }
+}
+@media only screen and (min-width: 1330px) {
+  html {
+    font-size: 17px;
+  }
+
+  .hero-img {
+    width: 40%;
+    margin-right: 6em;
+  }
+}
+@media only screen and (min-width: 1430px) {
+  html {
+    font-size: 18px;
+  }
+
+  .hero container {
+    width: 1400px;
+    margin-top: -9rem;
+  }
+  .hero container .subhead {
+    margin-right: 19em;
+    padding: 9em;
+  }
+
+  .hero-img {
+    width: 50%;
+    margin-right: 3em;
+  }
+
+  .hero .container {
+    margin-right: 20em;
+  }
+  .hero .container .left-col {
+    margin: 5em 2em 0 5em;
+  }
+  .hero .container .left-col h1 {
+    font-size: 3em;
+    width: 100%;
   }
 }
 

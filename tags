@@ -1,0 +1,167 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+.container	css/style.css	/^  .container {$/;"	c
+.flex-container	css/style.css	/^.flex-container {$/;"	c
+.form-container	css/style.css	/^.form-container {$/;"	c
+.form-container .input-box	css/style.css	/^.form-container .input-box {$/;"	c
+.form-container .input-box .line	css/style.css	/^.form-container .input-box .line {$/;"	c
+.form-container .input-box .line-textarea	css/style.css	/^.form-container .input-box .line-textarea {$/;"	c
+.form-container .input-box .text	css/style.css	/^.form-container .input-box .text {$/;"	c
+.form-container .input-box input	css/style.css	/^.form-container .input-box input {$/;"	s
+.form-container .input-box input:focus	css/style.css	/^.form-container .input-box input:focus ~ .line, .form-container .input-box input:valid ~ .line {$/;"	s
+.form-container .input-box input:focus + .text	css/style.css	/^.form-container .input-box input:focus + .text, .form-container .input-box input:valid + .text {$/;"	c
+.form-container .input-box input:valid	css/style.css	/^.form-container .input-box input:focus ~ .line, .form-container .input-box input:valid ~ .line {$/;"	s
+.form-container .input-box input:valid + .text	css/style.css	/^.form-container .input-box input:focus + .text, .form-container .input-box input:valid + .text {$/;"	c
+.form-container .input-box.textarea textarea	css/style.css	/^.form-container .input-box.textarea textarea {$/;"	s
+.form-container .input-box.textarea textarea .textarea	css/style.css	/^.form-container .input-box.textarea textarea .textarea {$/;"	c
+.form-container .input-box.textarea textarea .textarea textarea	css/style.css	/^.form-container .input-box.textarea textarea .textarea textarea {$/;"	s
+.form-container .input-box.textarea textarea:focus	css/style.css	/^.form-container .input-box.textarea textarea:focus ~ .line, .form-container .input-box.textarea /;"	s
+.form-container .input-box.textarea textarea:focus + .text	css/style.css	/^.form-container .input-box.textarea textarea:focus + .text, .form-container .input-box.textarea /;"	c
+.form-container .input-box.textarea textarea:valid	css/style.css	/^.form-container .input-box.textarea textarea:focus ~ .line, .form-container .input-box.textarea /;"	s
+.form-container .input-box.textarea textarea:valid + .text	css/style.css	/^.form-container .input-box.textarea textarea:focus + .text, .form-container .input-box.textarea /;"	c
+.form-container .row	css/style.css	/^.form-container .row {$/;"	c
+.form-container .row .col	css/style.css	/^.form-container .row .col {$/;"	c
+.form-container h2	css/style.css	/^.form-container h2 {$/;"	s
+.form-container input[type=submit]	css/style.css	/^.form-container input[type=submit] {$/;"	s
+.hero	css/style.css	/^.hero {$/;"	c
+.hero .container	css/style.css	/^  .hero .container {$/;"	c
+.hero .container .left-col	css/style.css	/^  .hero .container .left-col {$/;"	c
+.hero .container .left-col h1	css/style.css	/^  .hero .container .left-col h1 {$/;"	s
+.hero-cta	css/style.css	/^  .hero-cta {$/;"	c
+.hero-img	css/style.css	/^  .hero-img {$/;"	c
+.hero-img	css/style.css	/^.hero-img {$/;"	c
+.left-col .primary-cta	css/style.css	/^.left-col .primary-cta {$/;"	c
+.left-col .primary-cta:after	css/style.css	/^.left-col .primary-cta:after {$/;"	c
+.left-col .primary-cta:before	css/style.css	/^.left-col .primary-cta:before {$/;"	c
+.left-col .primary-cta:hover	css/style.css	/^.left-col .primary-cta:hover {$/;"	c
+.left-col .primary-cta:hover:before	css/style.css	/^.left-col .primary-cta:hover:before {$/;"	c
+.left-col .subhead	css/style.css	/^.left-col .subhead {$/;"	c
+.left-col h1	css/style.css	/^.left-col h1 {$/;"	s
+.line	css/style.css	/^.form-container .input-box input:focus ~ .line, .form-container .input-box input:valid ~ .line {$/;"	c
+.line	css/style.css	/^.form-container .input-box.textarea textarea:focus ~ .line, .form-container .input-box.textarea /;"	c
+.mobile-menu	css/style.css	/^  .mobile-menu, .mobile-menu-exit {$/;"	c
+.mobile-menu-exit	css/style.css	/^  .mobile-menu, .mobile-menu-exit {$/;"	c
+.mobile-menu-exit	css/style.css	/^.mobile-menu-exit {$/;"	c
+.navbar	css/style.css	/^.navbar {$/;"	c
+.navbar .container	css/style.css	/^  .navbar .container {$/;"	c
+.navbar .container	css/style.css	/^.navbar .container {$/;"	c
+.navbar .logo	css/style.css	/^.navbar .logo {$/;"	c
+.navbar .logo span	css/style.css	/^.navbar .logo span {$/;"	s
+.navbar .logo:hover	css/style.css	/^.navbar .logo:hover {$/;"	c
+.navbar .mobile-menu	css/style.css	/^.navbar .mobile-menu {$/;"	c
+.navbar nav	css/style.css	/^  .navbar nav {$/;"	s
+.navbar nav	css/style.css	/^.navbar nav {$/;"	s
+.navbar nav a	css/style.css	/^  .navbar nav a {$/;"	s
+.navbar nav a	css/style.css	/^.navbar nav a {$/;"	s
+.navbar nav input[type=checkbox]	css/style.css	/^  .navbar nav input[type=checkbox] {$/;"	s
+.navbar nav input[type=checkbox]	css/style.css	/^.navbar nav input[type=checkbox] {$/;"	s
+.navbar nav label	css/style.css	/^  .navbar nav label {$/;"	s
+.navbar nav label	css/style.css	/^.navbar nav label {$/;"	s
+.navbar nav li.current a	css/style.css	/^  .navbar nav li.current a {$/;"	s
+.navbar nav li.togle-switch	css/style.css	/^  .navbar nav li.togle-switch {$/;"	c
+.navbar nav ul	css/style.css	/^  .navbar nav ul {$/;"	s
+.navbar nav ul.primary-nav	css/style.css	/^  .navbar nav ul.primary-nav {$/;"	c
+.primary-cta	css/style.css	/^  .primary-cta {$/;"	c
+.section-sponsors	css/style.css	/^.section-sponsors {$/;"	c
+.section-sponsors h2	css/style.css	/^.section-sponsors h2 {$/;"	s
+.sponsors	css/style.css	/^  .sponsors {$/;"	c
+.sponsors	css/style.css	/^.sponsors {$/;"	c
+.sponsors .logo-one	css/style.css	/^.sponsors .logo-one {$/;"	c
+.sponsors .logo-two	css/style.css	/^.sponsors .logo-two {$/;"	c
+.sponsors li	css/style.css	/^.sponsors li {$/;"	s
+.stats	css/style.css	/^  .stats {$/;"	c
+.stats	css/style.css	/^.stats {$/;"	c
+.stats li	css/style.css	/^  .stats li {$/;"	s
+.stats li	css/style.css	/^.stats li {$/;"	s
+.stats li:last-child	css/style.css	/^  .stats li:last-child {$/;"	s
+.stats span	css/style.css	/^.stats span {$/;"	s
+.stats strong	css/style.css	/^.stats strong {$/;"	s
+.status-section	css/style.css	/^.status-section {$/;"	c
+.testimonials-section	css/style.css	/^.testimonials-section {$/;"	c
+.testimonials-section li	css/style.css	/^.testimonials-section li {$/;"	s
+.testimonials-section li img	css/style.css	/^.testimonials-section li img {$/;"	s
+.testimonials-section ul	css/style.css	/^  .testimonials-section ul {$/;"	s
+.testimonials-section ul li	css/style.css	/^  .testimonials-section ul li {$/;"	s
+.wrapper	css/style.css	/^  .wrapper {$/;"	c
+.wrapper	css/style.css	/^.wrapper {$/;"	c
+AnonymousFunctionb43910f50100	main.js	/^checkbox.addEventListener('change', function() {$/;"	c
+AnonymousFunctionb43910f50200	main.js	/^mainButton.addEventListener('click', function (event) {$/;"	f
+Captures:	README.md	/^## Captures:$/;"	s
+Contact Us	index.html	/^      <h2>Contact Us<\/h2>$/;"	i
+Dark mode in every space	index.html	/^        <h1>Dark mode in every space<\/h1>$/;"	h
+DarkThis ~ Website	README.md	/^# DarkThis ~ Website$/;"	c
+Ellipse_2	images/dots.svg	/^    <circle id="Ellipse_2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(131 96/;"	i
+Ellipse_2-10	images/dots.svg	/^    <circle id="Ellipse_2-10" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(263/;"	i
+Ellipse_2-11	images/dots.svg	/^    <circle id="Ellipse_2-11" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(131/;"	i
+Ellipse_2-12	images/dots.svg	/^    <circle id="Ellipse_2-12" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(164/;"	i
+Ellipse_2-13	images/dots.svg	/^    <circle id="Ellipse_2-13" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(197/;"	i
+Ellipse_2-14	images/dots.svg	/^    <circle id="Ellipse_2-14" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(230/;"	i
+Ellipse_2-15	images/dots.svg	/^    <circle id="Ellipse_2-15" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(263/;"	i
+Ellipse_2-16	images/dots.svg	/^    <circle id="Ellipse_2-16" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(131/;"	i
+Ellipse_2-17	images/dots.svg	/^    <circle id="Ellipse_2-17" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(164/;"	i
+Ellipse_2-18	images/dots.svg	/^    <circle id="Ellipse_2-18" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(197/;"	i
+Ellipse_2-19	images/dots.svg	/^    <circle id="Ellipse_2-19" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(230/;"	i
+Ellipse_2-2	images/dots.svg	/^    <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(164 /;"	i
+Ellipse_2-20	images/dots.svg	/^    <circle id="Ellipse_2-20" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(263/;"	i
+Ellipse_2-3	images/dots.svg	/^    <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(197 /;"	i
+Ellipse_2-4	images/dots.svg	/^    <circle id="Ellipse_2-4" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(230 /;"	i
+Ellipse_2-5	images/dots.svg	/^    <circle id="Ellipse_2-5" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(263 /;"	i
+Ellipse_2-6	images/dots.svg	/^    <circle id="Ellipse_2-6" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(131 /;"	i
+Ellipse_2-7	images/dots.svg	/^    <circle id="Ellipse_2-7" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(164 /;"	i
+Ellipse_2-8	images/dots.svg	/^    <circle id="Ellipse_2-8" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(197 /;"	i
+Ellipse_2-9	images/dots.svg	/^    <circle id="Ellipse_2-9" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(230 /;"	i
+Features:	README.md	/^## Features:$/;"	s
+Icon_feather-menu	images/menu.svg	/^  <g id="Icon_feather-menu" data-name="Icon feather-menu" transform="translate(-4.5 -8)">$/;"	i
+Icon_ionic-md-close	images/exit.svg	/^  <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M28.477,9.619l-2.1-2.1L18,15/;"	i
+Our main sponsors...	index.html	/^    <h2>Our main sponsors...<\/h2>$/;"	i
+Path_3	images/menu.svg	/^    <path id="Path_3" data-name="Path 3" d="M4.5,18H23.353" transform="translate(0 -4)" fill="no/;"	i
+Path_4	images/menu.svg	/^    <path id="Path_4" data-name="Path 4" d="M4.5,9H23.353" transform="translate(0)" fill="none" /;"	i
+Path_5	images/menu.svg	/^    <path id="Path_5" data-name="Path 5" d="M4.5,27H23.353" transform="translate(0 -8)" fill="no/;"	i
+Tools:	README.md	/^## Tools:$/;"	s
+a	css/style.css	/^a {$/;"	s
+black	images/Michelin_logo.svg	/^	c0.3-0.3,0.8-0.7,1.2-0.8c0.2-0.1,0.6-0.2,0.8,0.1C111.3,115.9,111,116.2,110.8,116.3"\/>$/;"	i
+black_1_	images/Michelin_logo.svg	/^	C311.6,101.1,312.5,98.7,311.7,96.2"\/>$/;"	i
+blue	images/Michelin_logo.svg	/^	l13.3-36.1H60z M306.9,197.7l-13.3,36.1h17.5l13.3-36.1H306.9z M31.2,176.7l-3.3,9h358.7l3.3-9H31./;"	i
+body	css/style.css	/^  body {$/;"	s
+body	css/style.css	/^body {$/;"	s
+body::-webkit-scrollbar	css/style.css	/^  body::-webkit-scrollbar {$/;"	s
+body::-webkit-scrollbar-thumb	css/style.css	/^  body::-webkit-scrollbar-thumb {$/;"	s
+body::-webkit-scrollbar-track	css/style.css	/^  body::-webkit-scrollbar-track {$/;"	s
+checkbox	main.js	/^const checkbox = document.querySelector('input[name=theme-switch]');$/;"	C
+darkMode	main.js	/^function darkMode() {$/;"	f
+dots	images/dots.svg	/^  <g id="dots" transform="translate(-131 -963)">$/;"	i
+html	css/style.css	/^  html {$/;"	s
+html	css/style.css	/^html {$/;"	s
+html[data-theme=dark]	css/style.css	/^html[data-theme=dark] {$/;"	s
+https://darkthis.netlify.app/	README.md	/^## https:\/\/darkthis.netlify.app\/$/;"	s
+image	main.js	/^const image = localStorage.getItem('image');$/;"	C
+input:checked + label	css/style.css	/^  input:checked + label {$/;"	s
+input:checked + label:after	css/style.css	/^  input:checked + label:after {$/;"	s
+input[type=checkbox]	css/style.css	/^  input[type=checkbox] {$/;"	s
+label	css/style.css	/^  label {$/;"	s
+label:active:after	css/style.css	/^  label:active:after {$/;"	s
+label:after	css/style.css	/^  label:after {$/;"	s
+lightMode	main.js	/^function lightMode() {$/;"	f
+logo	images/PlayStation_logo.svg	/^	c0.3-0.2,0.4-0.6,0.4-1.2c0-0.6-0.2-1-0.6-1.2c-0.2-0.1-0.6-0.2-1-0.2h-3L304.6,233.4L304.6,233.4z/;"	i
+logo	images/Sparco_logo.svg	/^	c0-8.9,7.2-16.1,16.1-16.1c8.9,0,16.1,7.2,16.1,16.1l0,0C1033.3,344,1026.1,351.2,1017.1,351.2z"\//;"	i
+loogo	images/Zelle_logo.svg	/^	c-10.2-2.2-19.8,3.4-22.1,12.7l-0.3,1.2H337v-1.1H337.1z"\/>$/;"	i
+mainButton	main.js	/^const mainButton = document.querySelector('.primary-cta');$/;"	C
+mobileBtn	main.js	/^const mobileBtn = document.getElementById('mobile-cta');$/;"	C
+mobileBtnExit	main.js	/^const mobileBtnExit = document.getElementById('mobile-exit');$/;"	C
+nav	css/style.css	/^nav {$/;"	s
+nav	main.js	/^const nav = document.querySelector('NAV');$/;"	C
+nav li a	css/style.css	/^nav li a {$/;"	s
+nav li a:hover	css/style.css	/^nav li a:hover {$/;"	s
+nav ul.primary-nav	css/style.css	/^nav ul.primary-nav {$/;"	c
+nav.menu-btn	css/style.css	/^nav.menu-btn {$/;"	c
+section	css/style.css	/^  section {$/;"	s
+section	css/style.css	/^section {$/;"	s
+theme	main.js	/^const theme = localStorage.getItem('theme');$/;"	C
+themeSwitch	main.js	/^const themeSwitch = localStorage.getItem('themeSwitch');$/;"	C
+ul	css/style.css	/^ul {$/;"	s
+white	images/Michelin_logo.svg	/^	c1.3,0.3,2.4,1.1,3.2,2.5c0,0,0,0.1,0,0.1c0.6-0.3,1.2-0.7,1.6-0.9v0C307.3,98.4,307.5,98.1,307.3,/;"	i
